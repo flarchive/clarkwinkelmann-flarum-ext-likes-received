@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-likes-received.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-likes-received) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-likes-received).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2`
+**6** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-07-08 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-07-08 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-03-22 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v0.1.2) |
+| `1.0.0` | 2021-07-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-04-01 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v1.0.1) |
+| `1.0.2` | 2022-05-05 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-likes-received/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-likes-received.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-likes-received.json)
 
